@@ -1,6 +1,14 @@
 # app_contador_pessoas
+It was my first app built using Flutter Framework.
 
-A new Flutter project.
+Basically I used these Widgets:
+
+Column
+Row
+Stack
+FlatButton
+TextField
+
 
 ## Getting Started
 
